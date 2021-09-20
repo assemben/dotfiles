@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = assembensbih30@gmail.com
+	name = assem ben sbih
